@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Download the data
-// TODO fetch claimant dataset
+<!-- // TODO fetch claimant dataset -->
 
 Get the original vaccination corpus (used for testing example validity and extracting embeddings in context)
 ```sh
@@ -32,7 +32,7 @@ Then (optionally) remove the rest of the repository
 rm -rf vaccination-corpus/
 ```
 
-// TODO get publisher and claimant category annotations.
+<!--// TODO get publisher and claimant category annotations.-->
 
 ## Pre-process the dataset
 Assuming your claimant data is in the ./data/claimant_data folder, remove invalid examples using the following command:
