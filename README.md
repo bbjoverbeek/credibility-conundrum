@@ -1,4 +1,4 @@
-# claimant-credibility
+# credibility-conundrum
 
 Most of the results can be found in the output of the Jupyter Notebooks. 
 If you wish to run the experiment yourself, follow these steps:
@@ -55,6 +55,5 @@ Run the script to do this, and make sure you are running this on a machine capab
 python3 extract_embeddings.py
 ```
 
-## Running the regression experiments
 You can now run the regression experiments in the notebook:  
 [4_regression.ipynb](./4_regression.ipynb)  
