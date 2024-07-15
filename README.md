@@ -55,6 +55,5 @@ Run the script to do this, and make sure you are running this on a machine capab
 python3 extract_embeddings.py
 ```
 
-## Running the regression experiments
 You can now run the regression experiments in the notebook:  
 [4_regression.ipynb](./4_regression.ipynb)  
