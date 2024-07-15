@@ -1,4 +1,4 @@
-# claimant-credibility
+# credibility-conundrum
 
 Most of the results can be found in the output of the Jupyter Notebooks. 
 If you wish to run the experiment yourself, follow these steps:
